@@ -1,0 +1,15 @@
+/*通用样式*/
+ul,ol {
+	list-style: none;
+}
+
+body {
+	font-family: "Helvetica Neue", Helvetica, Arial, "Microsoft YaheiUI", "Microsoft YaHei", SimHei, "\5B8B\4F53", simsun, sans-serif;
+	color: #666;
+}
+
+/*通用样式 end*/ 
+
+.logo {
+	padding: 0;
+}

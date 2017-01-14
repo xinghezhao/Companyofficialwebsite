@@ -1,0 +1,35 @@
+/*响应式设计 开始*/
+
+/*没有小于768px，是因为Bootstrap3以移动端优先设计*/
+
+/* 小屏幕（平板，大于等于 768px） */
+
+@media (min-width: 768px) {
+	.navbar-nav>li {
+		margin-left: 50px;
+	}
+}
+
+/* 中等屏幕（桌面显示器，大于等于 992px） */
+@media (min-width: 992px) {
+	.navbar-nav>li {
+		margin-left: 100px;
+	}
+
+	.footer .link dl {
+	margin-right: 30px;
+	}
+}
+
+/* 大屏幕（大桌面显示器，大于等于 1200px） */
+@media (min-width: 1200px) {
+
+	.navbar-nav>li {
+		margin-left: 0px;
+	}
+
+	.footer .link dl {
+	margin-right: 50px;
+	}
+}
+/*响应式设计 end*/

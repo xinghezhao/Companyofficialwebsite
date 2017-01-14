@@ -1,0 +1,20 @@
+{
+	"owl" : [
+		{"item" : "<a class='item'><img src='img/owl1.jpg' alt=''></a>"},
+		{"item" : "<a class='item'><img src='img/owl2.jpg' alt=''></a>"},
+		{"item" : "<a class='item'><img src='img/owl3.jpg' alt=''></a>"},
+		{"item" : "<a class='item'><img src='img/owl4.jpg' alt=''></a>"},
+		{"item" : "<a class='item'><img src='img/owl5.jpg' alt=''></a>"},
+		{"item" : "<a class='item'><img src='img/owl6.jpg' alt=''></a>"},
+		{"item" : "<a class='item'><img src='img/owl7.jpg' alt=''></a>"},
+		{"item" : "<a class='item'><img src='img/owl8.jpg' alt=''></a>"},
+		{"item" : "<a class='item'><img src='img/owl1.jpg' alt=''></a>"},
+		{"item" : "<a class='item'><img src='img/owl2.jpg' alt=''></a>"},
+		{"item" : "<a class='item'><img src='img/owl3.jpg' alt=''></a>"},
+		{"item" : "<a class='item'><img src='img/owl4.jpg' alt=''></a>"},
+		{"item" : "<a class='item'><img src='img/owl5.jpg' alt=''></a>"},
+		{"item" : "<a class='item'><img src='img/owl6.jpg' alt=''></a>"},
+		{"item" : "<a class='item'><img src='img/owl7.jpg' alt=''></a>"},
+		{"item" : "<a class='item'><img src='img/owl8.jpg' alt=''></a>"}
+	]
+}
